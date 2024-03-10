@@ -1,0 +1,1665 @@
+STUDENTS’ CONSTITUTION
+
+INDIAN INSTITUTE OF TECHNOLOGY
+MADRAS
+
+Original Constitution Committee
+Dr. R Srinivasan, Dean (Students) and Convenor
+Dr. Kalyanaraman S
+
+Dr. Ananth M S
+
+Dr. Manoharan P T
+
+Ahobala Rao P
+
+Sethuram B K
+
+Chandramohan T A
+
+Ganesh L S
+
+Ravi Subramanian
+
+Uday Prakash M
+
+Vijay Subramanian
+
+Ms. Rapti Madhurawe
+
+Ghose A K
+
+Manmohan Singh
+Revisions to the Original Constitution
+First Revision – By the
+Senate sub-committee –
+Prof. R. Srinivasan
+Prof. Victor D J
+Prof. Kuriacose J C
+Assisted by
+Ganesh L S
+Uday Prakash M
+
+Second Revision – 1997
+Prof. P Srinivasa Rao (Dean –
+Students)
+Arvind Desikan (Speaker,
+SAC)
+
+Third Revision – 2011
+Prof. M Govardhan (Dean –
+Students)
+Nikhil Jogimahanti (Speaker,
+SAC 2010-11)
+Nitish Garg (Speaker, SAC
+2011-12)
+
+Constitution Redrafting Committee (2015-16)
+Dr. M.S. Sivakumar (Dean (Students))
+
+Dr. Dhiman Chatterjee
+
+Dr. Gandham Phanikumar
+
+Dr. Preeti Agalayam
+
+Dr. Sudarsan Padmanabhan
+
+Aroon Narayanan (Speaker, SAC 2015-16)
+
+Shyam Sundar Sridhar (Chairperson)
+
+Abhinav Surya L T
+
+Amala Bonnie
+
+Ankit Jain
+
+Mahesh Kurup
+
+Nitish Reddy
+
+Supreet Hegde
+
+Venkataraman Ganesh
+
+Contributions by:
+Answesha Pathi, Varun Shridhar, Ankit Jain
+
+Passed:
+Student Legislative Council (2016-17) &
+Venkataraman Ganesh (Speaker, SLC (2016-17))
+Approved:
+Dr. M. S. Sivakumar (Dean (Students)),
+Dr. Sudarsan Padmanabhan (Advisor (SLC)) &
+Namburi Nikhil Bharadwaj (Speaker, SLC (2017-18))
+
+TABLE OF CONTENTS
+PREAMBLE
+CHAPTER I - GENERAL PROVISIONS
+CHAPTER II - RIGHTS AND RESPONSIBILITIES
+SECTION I - RIGHTS OF STUDENTS
+SECTION II - RESPONSIBILITIES OF STUDENTS
+CHAPTER III - LEGISLATURE
+SECTION I - INTRODUCTION
+SECTION II - ORGANIZATION
+SECTION III - SPEAKER OF THE STUDENT LEGISLATIVE COUNCIL
+SECTION IV - STUDENT LEGISLATIVE COUNCIL SECRETARIAT
+SECTION V - LEGISLATORS OF THE STUDENT LEGISLATIVE COUNCIL
+SECTION V - STANDING COMMITTEES
+SECTION VI - AD-HOC COMMITTEES
+SECTION VII - LEGISLATIVE PROCEDURE
+SECTION VII - RESIGNATION PROCEDURE
+CHAPTER IV - EXECUTIVE
+SECTION I - INTRODUCTION
+SECTION II - ORGANIZATION
+SECTION III - GENERAL PROVISIONS
+SECTION IV - POWERS AND RESPONSIBILITIES
+SECTION IV - RESIGNATION PROCEDURE
+CHAPTER V - JUDICIARY
+SECTION I -​ INTRODUCTION
+SECTION II ​- ORGANIZATION
+SECTION III -​ JURISDICTION AND POWERS
+CHAPTER VI - HOSTELS
+SECTION I - INTRODUCTION
+SECTION II - HOSTEL COUNCIL
+SECTION III - POWERS AND RESPONSIBILITIES
+CHAPTER VII - DEPARTMENTS
+SECTION I - INTRODUCTION
+
+○ SECTION II - DEPARTMENT COUNCIL.
+CHAPTER VIII - ELECTIONS AND IMPEACHMENT
+SECTION I - STUDENT ELECTION COMMISSION (SEC)
+SECTION II - ELECTORATE
+SECTION III - NOMINATION
+SECTION IV - CAMPAIGNING
+SECTION V - VOTING
+SECTION VI - GRIEVANCE COMMITTEE
+SECTION VII - IMPEACHMENT
+CHAPTER IX - FINANCE
+SECTION I - SOURCES OF FINANCE
+SECTION II - BUDGET
+CHAPTER X - CONSTITUTIONAL BODIES
+SECTION I - THE FIFTH ESTATE (T5E)
+SECTION II - THE FINANCIAL ACCOUNTABILITY COMMITTEE (FAC)
+CHAPTER XI - AMENDMENTS
+
+PREAMBLE
+We, the students of the Indian Institute of Technology Madras, give ourselves a Constitution to
+promote, through a democratic representative system, the common welfare of all students by:
+A. responding to and resolving student concerns,
+B. representing students to the administration,
+C. sharing institute resources,
+D. promoting liberty, equality and fraternity,
+E. promoting unity in diversity,
+F. providing opportunities for all-round excellence, and
+G. promoting cooperation among the members of the campus community.
+For these ends, we are resolved to respect and abide by this Constitution, to reflect maturity in
+our thoughts and actions, and to cultivate an atmosphere of mutual respect, trust, and harmony.
+
+CHAPTER I - GENERAL PROVISIONS
+I.
+
+Student Government
+The student organization under this Constitution will be known as the IIT Madras Student
+Government. The authority of this Constitution is the basis for all business of the Student
+Government.
+
+II.
+
+Membership
+All registered students of the institute who pay Gymkhana fees are members of the
+General Student Body (General Student Body), and shall be subject to the Constitution
+and the laws of the Student Government.
+
+III. Political Power
+All political power granted to bodies authorized under the Constitution, and by-laws and
+regulations of the Student Government, is inherent in the General Student Body. The
+Student Government governs, represents and is directly accountable to the General
+Student Body, which is the supreme power in this governmental setup. The General
+Student Body’s rights shall supersede those of all other student organizations, including
+the Student Government. unless otherwise limited by this Constitution,
+IV. Precedence
+This Constitution shall take precedence over all other instruments for the governance of
+the Student Government or any part thereof.
+V. Branches of Government
+The Student Government shall be divided into legislative, executive, and regulatory branches.
+A. Student Legislative Council
+The name of the legislative branch shall be the Student Legislative Council.
+B. Executive Council
+The name of the executive branch shall be the Executive Council.
+C. Student Ethics and Constitutional Council
+The name of the regulatory branch shall be the Student Ethics and Constitutional Council.
+VI. Exercise of Powers
+No person belonging to one branch shall exercise any powers appertaining to either of the other
+branches unless expressly provided by the Constitution.
+VII. Student Government Officials
+
+All Student Government Officials shall be members of the General Student Body in good
+academic and ethical standing, as determined by the Student Election Commission
+(SEC), at the time of the election and appointment. These officials are expected to
+maintain the highest levels of ethical standard during the term of office.
+VIII.Student Organization
+A student organization is any grouping of members of the student body recognized by the
+Student Legislative Council. There are two types of student organizations:
+A. Student Government Associated Organizations
+These organizations come under the purview of either the Executive Council, the
+Student Legislative Council or the SECC , and can use Gymkhana funds.
+B. Board of Student Associated Organizations
+These organizations function independent of the Student Government and cannot
+use Gymkhana funds. This does not prevent the Student Legislative Council from
+recommending guidelines regarding the registration, functioning and termination
+of such bodies to the Board of Students.
+IX. Institute Organizations
+Organizations comprising of students, faculty, and/or staff that report directly to the
+Deans or the Director shall be known as Institute Organizations.
+X.
+
+Positions of Responsibility
+Any student member of a student organization who possesses executive or
+decision-making power within that organization will be considered to be in a Position of
+Responsibility (PoR). No member of the General Student Body can hold more than one
+elected Position of Responsibility at any given point of time.
+
+Institute Boards
+Institute Boards refer to the Senate subcommittees that deal with student issues, including, but
+not limited to, the Board of Students (BoS), the Board of Academic Courses (BAC), the Board of
+Academic Research (BAR), and the Board of Placements (BoP).
+
+CHAPTER II - RIGHTS AND RESPONSIBILITIES
+SECTION I - RIGHTS OF STUDENTS
+I.
+
+Introduction
+All members of the General Student Body will enjoy, and shall not be prevented from
+enjoying, any rights granted to them under the purview of this Constitution. These rights
+shall be maintained by the constant endeavor of the General Student Body, who shall
+refrain from any abuse of these freedoms and rights and shall be responsible for utilizing
+them for the public welfare.
+
+II.
+
+Amendability of Rights of Students
+The rights of students form a part of the basic structure of this constitution and cannot
+therefore be amended by an act of the Student Legislative Council or the Senate.
+
+Fundamental Freedoms
+All members of the General Student Body shall have the freedom:
+A. of thought, opinion, expression, belief, faith, and worship. This also includes the
+freedom of campus publications and the freedom to address the media outside of
+the campus.
+B. to assemble and/or protest peacefully in the hostel zone.
+C. to form associations and student organizations, as long as they are not affiliated to
+external political parties, or organizations that promote hatred, violence, and
+divisiveness in the campus on the basis of race, color, caste, sex, sexual
+orientation, age, religion, political convictions, language, ethnicity, region,
+nationality, socio-economic condition, or disability.
+D. to move freely within the hostel zone.
+The above freedoms can be subject to reasonable restrictions as per the Institute rules and
+regulations.
+III.
+
+IV.
+
+Equality
+All members of the General Student Body shall have the right to equality before law and
+equal protection and benefit of law without discrimination, exclusion or preference based
+on race, color, caste, sex, sexual orientation, age, religion, political convictions, language,
+ethnicity, region, nationality, socio-economic condition, or disability.
+
+V.
+
+Equal Opportunity
+
+All members of the General Student Body shall be given equal opportunity to apply for a
+position of responsibility. This does not prevent the Student Legislative Council from
+listing out relevant criteria for said application subject to judicial review on the basis of
+the spirit of this Constitution and the rights it enshrines.
+Personal Liberty and Privacy
+All members of the General Student Body shall enjoy personal liberty and privacy without
+infringing on the rules and regulations of the Institute.
+VI.
+
+VII. Exercise of Rights of Citizenship Outside Campus
+
+As citizens, all members of the General Student Body are to enjoy the same freedoms and rights
+enjoyed by other citizens.
+VIII. Political Rights
+
+All members of the General Student Body shall have the right A. To vote in student elections;
+B. To contest in student elections;
+C. To address student representatives regularly.
+Secret Ballot
+In all elections, secrecy of the ballot shall not be violated. A voter shall not be answerable,
+publicly or privately, for the choice he or she has made.
+IX.
+
+Right to Seek Information
+All members of the General Student Body shall have, in addition to the rights granted by the
+Right to Information Act (2005) passed by the Parliament of India, the right to seek any
+information about any entity which uses either the Institute Fees or Hostel Fees. The
+Executive Council shall be responsible for furnishing any such information requested,
+failing which the request shall be forwarded to the SECC.
+X.
+
+XI. Access to Quality Healthcare, Hygiene, and Nutrition
+All members of the General Student Body shall have the access to quality healthcare, medical
+service, hygiene, and nutrition. The medical records of the members of the General
+Student Body shall be considered to be confidential.
+SECTION II - RESPONSIBILITIES OF STUDENTS
+XII. Non-Enforceability
+
+The provisions contained in this section shall not be enforceable by the Student
+
+Government or the Institute Administration, but the principles therein laid down are
+nevertheless fundamental in the constant endeavor of consciously building a flourishing,
+mature, and diverse student community.
+XIII. Responsibilities of Students
+
+It shall be the responsibility of every member of the General Student Body:
+A. To abide by and uphold the Constitution in both letter and spirit and respect its
+ideals and institutions;
+B. To cherish and develop the noble ideals of scientific temper, humanism, and the
+spirit of enquiry and reform;
+C. To strive towards excellence in all spheres of individual and collective activity so
+that the student community constantly rises to higher levels of endeavor and
+achievement;
+D. To promote harmony and the spirit of common brotherhood among all individuals
+transcending religious, linguistic and regional, or sectional diversities;
+E. To renounce and condemn practices derogatory to the dignity of all individuals;
+F. To value and preserve the rich heritage of our composite culture;
+G. To protect and improve the natural environment in the campus, and to have
+compassion for all living creatures;
+H. To safeguard public property and to abjure violence in our thoughts, words, and
+deeds;
+I. To act in accordance with the IIT Madras Student Honor Code.
+
+CHAPTER III - LEGISLATURE
+SECTION I - INTRODUCTION
+I.
+
+Legislative Powers
+All legislative powers of the General Student Body are vested in the Student Legislative
+Council.
+
+II.
+
+Types of Legislation
+The Student Legislative Council shall have the power to pass three types of legislation:
+A. Bills
+Legislation pertaining to policies that can be implemented under the authority of
+the Student Legislative Council will be labelled Bills. The Executive Council
+shall be responsible for their satisfactory execution.
+B. Resolutions
+Legislations that propose official recommendations and directives of the Student
+Legislative Council will be labeled Resolutions. They express the will of the
+General Student Body.
+C. Constitutional Amendments
+Legislations that seek to modify any part of this Constitution shall be deemed to
+be Constitutional Amendments and shall follow the procedure elucidated in
+Chapter XI to be valid.
+
+III.
+
+Powers and responsibilities of the Student Legislative Council
+The Student Legislative Council, provided a quorum of more than fifty percent of the
+total legislators elected at a given point of time is met, has the power and responsibility:
+A. To be the primary legislative body with the mandate to enforce this Constitution
+and enact legislation by making rules and regulations as may be deemed
+necessary and proper for the execution of its responsibilities to fulfil its mandate;
+B. To be a body to recommend approval or derecognition of student organizations in
+the campus to the institute;
+C. To be the primary student body for overseeing all student activities and to ensure
+the smooth functioning of the Student Government;
+D. To be the primary advocating body of student interests and student welfare;
+E. To create offices and positions as it deems necessary for the satisfactory execution
+
+of its responsibilities.
+
+F. To be an investigative authority on such matters as are pertinent to the interests
+
+of the General Student Body and to make recommendations about the same to the
+administration, the faculty and staff, and the students;
+
+IV.
+
+Prohibitions
+The Student Legislative Council shall not:
+A. Enact any legislation or amendment that violates the spirit of this Constitution;
+B. Appropriate funds for a period of more than one year;
+C. Deny speaking privileges in the Student Legislative Council to members of the
+Executive Council;
+D. Conduct any vote on legislation in the Student Legislative Council by secret
+ballot;
+E. Overrule a decision of the SECC ;
+F. Change election laws during the six weeks before a scheduled election
+G. Discuss or vote on issues that pertain to the private lives of individual students.
+
+SECTION II - ORGANIZATION
+V.
+
+Composition
+The composition of the Student Legislative Council shall be as follows:
+1. One Hostel Legislator from each hostel.
+2. One Department Legislator (Academic) representing the taught programs of each
+
+department.
+3. One Department Legislator (Research) representing the research programs of
+
+each department.
+4. Four Legislators representing postgraduate students pursuing two year
+postgraduate courses in engineering/technology.
+
+The Speaker shall be the presiding officer of the Student Legislative Council.
+Legislative Committees
+The Legislative Committees shall be a link between the Student Legislative Council, the
+Executive Council, and the General Student Body. These committees shall:
+A. Review the actions of the Executive in order to maintain accountability, and
+B. Thoroughly and systematically scrutinize all agenda points that are raised in the
+Student Legislative Council.
+The Legislative Committees shall take into account the views of Executive Council and other
+student government officials, as well as the opinions of the General Student Body, and
+shall submit reports to the Student Legislative Council at least once a month. The
+Committees and the Executive Council shall work together amicably, and the former
+shall have no executive authority over the latter. However, the Executive Council is
+expected to cooperate with the legislative committees and must take all possible measures
+to ensure that the legislative committees fulfil their mandates. The Legislative Council
+may create new Legislative Committees as and when required.
+VI.
+
+VII. Types of Legislative Committees
+
+Legislative Committees can be of two kinds:
+A. Standing committees
+Standing Committees are permanent committees of the Student Legislative
+Council with a prescribed area of jurisdiction.
+B. Ad-hoc committees
+Ad-hoc Committees are temporary committees established to deal with matters in
+need of immediate/urgent attention.
+SECTION III - SPEAKER OF THE STUDENT LEGISLATIVE COUNCIL
+VIII. Election of the Speaker
+
+The Speaker will be elected by the Legislators of the Student Legislative Council. S/he
+shall not hold any office that falls under the chain-of-command of any other member of
+the Executive Council.
+IX.
+
+Responsibilities of the Speaker
+The Speaker shall:
+A. Convene, conduct, and moderate the meetings of the Student Legislative Council
+in an impartial manner;
+B. Be responsible for the smooth functioning of Student Legislative Council and
+Legislative Committees;
+
+C. Call for agenda points from Legislators before every meeting of the Student
+
+Legislative Council;
+D. Be a non-voting member of the Executive Council and facilitate coordination
+between the Executive and Legislative branches of the Student Government;
+E. Represent the views of Student Legislative Council and the Student Government
+to the Board of Students and the Senate;
+F. Act as a point of contact for communications between the Student Legislative
+Council and other individuals and organizations.
+G. Be responsible for taking steps to inculcate interest in governance, politics and
+policy formulation amongst General Student Body Members
+H. Maintain up to date records of the following documents:
+1. A copy of the Constitution and Amendments,
+2. The minutes of all meetings of the Student Legislative Council for all
+preceding years,
+3. The reports of all student committees, legislative committee, Institute
+Boards, and executives at the hostel and institute levels for all preceding
+years, and
+4. All official correspondence from any individual or group of individuals of
+the General Student Body to the Speaker for the past five years;
+I. Be responsible for the production of the above documents within reasonably short
+time hours when demanded by any of the following:
+1. Legislators of the Student Legislative Council,
+2. Members of the Executive Council,
+3. The SECC ,
+4. Campus Student Press, and
+5. Any other person or body authorized by the Student Legislative Council;
+J. Call for, compile, and release to the General Student Body, reports from:
+1. Individual members of the Executive Council, covering their activities and
+the activities of the organizations falling under their purview,
+2. Student Legislative Council and its committees, and
+3. Constitutional Bodies, as defined in this constitution, after ensuring
+anonymity if required.
+This shall be done, at a minimum, twice every academic year. The Speaker may also call for
+reports from any student organization and position of responsibility in the
+Institute.
+X.
+
+Powers of the Speaker
+The Speaker shall:
+A. Set the legislative agenda for every meeting of the Student Legislative Council;
+
+B. Be the final arbiter in case of disputes related to rules of procedure of the Student
+
+Legislative Council;
+C. Define the terms of reference for legislative committees in such cases where the
+Student Legislative Council has not set the same;
+D. Oversee and supervise the work done by members of legislative committees and
+report on the same to the Student Legislative Council periodically;
+E. Have the right to restrict the entry of General Student Body members into
+meetings of the Student Legislative Council after due consultation with members
+of the Student Legislative Council;
+F. Appoint Legislators to Standing Committees, subject to the ratification of the
+Student Legislative Council;
+G. Oversee and supervise the work done by members of the Student Legislative
+Council Secretariat;
+H. Appoint the student-heads of constitutional bodies in consultation with the
+outgoing student-heads, subject to ratification by the Student Legislative Council;
+I. Have the right to censure Legislators, members of the General Student Body and
+members of the Executive Council for unparliamentary and unconstitutional
+behavior in matters related to the functioning of the Student Legislative Council.
+Three censures in a year shall lead to automatic disqualification of the Legislator
+from the Student Legislative Council;
+J. Have the right to suspend Legislators from sessions of the Student Legislative
+Council for unparliamentary and unconstitutional behavior in matters related to
+the functioning of the Student Legislative Council;
+The Speaker must exercise his/her punitive powers with caution. The Speaker must submit a
+report to the Student Legislative Council and the Board of Students via the Dean
+(Students) giving detailed reasons behind the exercise of his/her punitive powers within a
+reasonably short period of time. Misuse of his/her powers and failure to submit the report
+on time are grounds for impeachment of the Speaker.
+SECTION IV - STUDENT LEGISLATIVE COUNCIL SECRETARIAT
+XI.
+
+Responsibilities of the Student Legislative Council Secretariat
+The Student Legislative Council Secretariat, under the leadership and guidance of the
+Speaker, shall be in charge of looking after the publicity and facilities requirement of the
+Student Legislative Council and its committees. In addition, the Secretariat shall carry out
+those duties and responsibilities that are assigned to it by the Speaker insofar as it relates
+to fulfilling the Speaker’s constitutional obligations.
+
+XII. Composition
+
+The student-head of the secretariat shall be appointed by the Speaker subject to
+ratification by the Student Legislative Council. The student-head shall in turn appoint
+coordinators in consultation with the Speaker.
+SECTION V - LEGISLATORS OF THE STUDENT LEGISLATIVE COUNCIL
+XIII. Election of Legislators
+
+Each hostel shall elect a Hostel Legislator and each Department shall elect two
+Department Legislators (Branch and Research) to represent itself in the Student
+Legislative Council. In addition to this, three Legislators representing postgraduate
+students pursuing two year postgraduate courses in engineering/technology shall be
+elected to the Student Legislative Council.
+XIV. Powers and Responsibilities of Legislators in the Student Legislative Council
+
+Each Legislator shall:
+A. Attend and participate in every meeting of the Student Legislative Council.
+B. Represent the interests of their electorate in specific and the Institute in general in
+the Student Legislative Council.
+C. Ensure unfettered access for all members of his or her electorate to voice their
+concerns to him or her.
+D. Ensure the maximum possible level of personal interaction with members/groups
+of his or her electorate in order to represent them to the best possible extent in the
+Student Legislative Council.
+E. Take an active part in both offline and online discussions and votes.
+F. Be a member of at least one Standing Committee for the course of the entire year;
+G. Be well-versed with the Students’ Constitution and legislation passed by the
+Student Legislative Council.
+SECTION V - STANDING COMMITTEES
+XV. Responsibilities of Standing Committees
+
+Standing Committees shall be responsible for:
+A. Improving the efficiency, economy, performance, and effectiveness of the
+Student Government operations and activities;
+B. Detecting and preventing poor execution, abuse, arbitrary and capricious
+behavior, or illegal and unconstitutional conduct of the EC;
+C. Ensuring that executive policies reflect student interest by collecting information
+from the General Student Body;
+
+D. Gathering information to develop new legislative proposals or to amend existing
+
+laws;
+E. Ensuring executive compliance with legislative intent;
+F. Preventing executive interference in legislative authority and prerogatives.
+G. Reviewing and examining legislative proposals that require expertise and close
+scrutiny that is not possible on the floor of the Student Legislative Council.
+H. Preventing the Student Legislative Council from getting lost in details and thereby
+losing hold on matters of policy and broad principles.
+I. Providing useful forums for the utilization of experience and ability that may
+otherwise remain untapped.
+J. Enabling the General Student Body to participate more directly and effectively in
+the consideration of issues directly affecting it.
+XVI. Membership
+
+Members to all standing committees shall be selected by the Speaker based on
+application with a statement of purpose for joining that committee. This selection shall be
+ratified by the Student Legislative Council. Members must be Legislators.
+XVII. Standing Committee Chairperson
+
+The Standing Committee Chairpersons shall:
+A. Be elected by the members of the respective standing committee from among
+
+themselves;
+B. Set an agenda of goals for their respective Committees after due consultation with
+
+the Speaker;
+C. Be a member of the respective Institute Boards.
+D. Ensure that any and all resolutions and bills pertinent to the respective committee
+are passed by the respective Boards and followed through;
+E. Schedule and hold at least one committee meeting a week;
+F. Record the attendance of committee members at committee meetings and report
+the same to the Speaker;
+G. Delegate tasks to each committee member in each meeting and ensure that tasks
+are completed within the specified deadline;
+H. Submit a report of the committee’s findings and activities to the Student
+Legislative Council every two months;
+I. Be responsible for scheduling and holding meetings with member(s) of the
+Executive Council to discuss matters of their committee pertinent to that
+member’s domain whenever deemed necessary.
+
+J.
+
+Submit a comprehensive petition to the Speaker for the removal of a Committee
+member in case of dereliction of duties by the member.
+
+Any Legislator may submit a comprehensive petition in case of dereliction of duties against the
+Chairperson of any Standing Committee to the Speaker. The Standing Committee Chair
+can be removed from their position, after being allowed to present his/her defence in
+Student Legislative Council, by a two-thirds vote of the Legislative Council at the advice
+of the Speaker. Appointment of a replacement Chairperson in such a circumstance will
+follow the same procedure as appointment of a new Chairperson.
+XVIII. Terms of Standing Committees
+
+A Standing Committee shall hold office for the tenure of that year’s Student Legislative
+Council​.
+SECTION VI - AD-HOC COMMITTEES
+XIX. Ad-hoc Committees
+
+The Speaker can constitute Ad-hoc committees with specific mandate to work on issues
+not falling under the purview of any standing committee.
+XX. Membership
+
+Members can be selected to these committees either through self-nominations or by
+submitting an application with a statement of purpose based on the discretion of the
+Speaker. General Student Body members can also be part of Ad-Hoc committees.
+XXI. Ad-Hoc Committee Chairperson
+
+The Ad-Hoc Committee Chairpersons shall:
+A. Be elected by the members of the respective standing committee from among
+
+themselves.
+B. Schedule and hold at least one committee meeting a week.
+C. Record the attendance of committee members at committee meetings and report it
+
+to the Speaker.
+D. Delegate tasks to each committee member in each meeting and ensure that tasks
+are completed within the specified deadline.
+E. Submit a report of the committee’s findings to the Student Legislative Council at
+the end of its mandate.
+
+F. Be responsible for scheduling and holding meetings with member of the EC to
+
+discuss matters of their committee pertinent to that member’s domain whenever
+deemed necessary.
+G. Submit a comprehensive petition to the Speaker for the removal of a Committee
+member in case of dereliction of duties by the member.
+Any Legislator may submit a comprehensive petition in case of dereliction of duties against the
+Chairperson of any Ad-Hoc Committee to the Speaker. The Ad-Hoc Committee
+Chairpersons can be removed from their position, after being allowed to present his/her
+defense in the Student Legislative Council, by a simple majority of votes within the
+committee. Appointment of a replacement Chair in such a circumstance will follow the
+same procedure as appointment of a new Chair.
+XXII. Terms of Ad-Hoc Committees
+
+The mandate and duration for which the committee shall work will be specified in the
+Student Legislative Council meeting in which the committee is constituted before any
+members are selected for the same.
+XXIII. Nominations and Ratifications Committee
+The Nominations and Ratifications Committee shall be a mandatory Ad-Hoc Committee
+formed to collect applications and propose a final list of nominations for all positions
+which the Student Legislative Council is required to ratify.
+SECTION VII - LEGISLATIVE PROCEDURE
+XXIV. Introduction of Legislation
+
+An agenda point can be raised by any Legislator either on the online group or on the floor
+of the Student Legislative Council with the permission of the Speaker, and shall be
+subject to due deliberation. If the matter requires only a discussion, the Speaker may call
+for a vote after s/he feels that due deliberation has occurred. If it requires greater scrutiny,
+the Speaker may forwarded the legislation either to a Legislative Standing Committee or
+an Ad-Hoc Committee formed specifically for this purpose. The committee shall table a
+report on the same after which it will be discussed and voted on.
+XXV. Legislative Privilege
+
+Legislators and Executive Council Members shall have the right to speak freely within
+the Student Legislative Council and cannot be prosecuted for their speech or conduct
+during the proceedings of a meeting except by the Speaker.
+
+XXVI. Voting
+
+All legislation shall be passed only under the condition of a simple majority of
+affirmative votes of legislators present and voting, except for Constitutional
+Amendments, which require a half of the total strength of the house to be present and
+two-thirds majority of affirmative votes of legislators present and voting.
+XXVII. Online Voting
+
+The Speaker may put an agenda to an online vote at times when it is not possible for the
+Student Legislative Council to meet physically. The Speaker must inform Legislators of
+the same well in advance and must provide Legislators at least 24 hours to cast their vote.
+The regular rules of procedure follow for online voting. Constitutional Amendments,
+however, cannot be voted online.
+XXVIII. Approval by the Board and the Senate
+A. All legislation except for resolutions passed by Student Legislative Council shall
+
+be forwarded to the Chairperson of the appropriate Board by the Speaker within
+reasonably short period of being passed for inclusion in the agenda of the next
+meeting of the Board.
+B. Legislation shall be considered approved if passed by the Legislative Council, the
+Boards, and the Senate.
+C. Legislation passed by the Legislative Council but rejected by the concerned Board
+will return to the Legislative Council, which shall make modifications to the
+legislation, if necessary. The Legislation shall then be passed to the Board again.
+In case of a deadlock, the Legislative Council may appeal to the Chairman of the
+Senate whose decision is binding.
+D. The Boards shall ideally not take up any legislative agenda concerning the welfare
+of the students without consulting the Student Legislative Council first.
+
+CHAPTER IV - EXECUTIVE
+SECTION I - INTRODUCTION
+I.
+
+Executive Council
+All executive powers of the Student Government shall be vested in the Executive
+Council. The members of the Executive Council shall be responsible for the execution of
+their Constitutional responsibilities and the policies of the Student Legislative Council.
+They shall function independent of one another in the process of implementation and
+execution of these policies.
+
+SECTION II - ORGANIZATION
+II.
+
+Composition
+The Executive Council shall consist of:
+A. Academic Affairs Secretary
+B. Co-Curricular Affairs Secretary
+C. Cultural Affairs Secretary (Arts)
+D. Cultural Affairs Secretary (Literary)
+E. Hostel Affairs Secretary
+F. International and Alumni Relations Secretary
+G. Research Affairs Secretary
+H. Sports Secretary
+I. Students' General Secretary
+J. Speaker of the Student Legislative Council (non-voting)
+
+III. Accountability to Student Legislative Council
+The Executive Council shall be accountable to the Student Legislative Council for the
+satisfactory execution of its constitutional responsibilities and the policies set by the
+Student Legislative Council. The Executive Council must present reports to the
+Legislative Council once in two months detailing its actions thus far and the plans for the
+remaining length of the term and when ever asked by the Student Legislative Council.
+IV. Executive Committees
+Each Executive Council member shall form a committee to assist him/her. The Core
+Members of each Committee will be nominated by the respective Executives in
+consultation with respective Faculty Advisors and ratified by the Student Legislative
+
+Council. The coordinators will be selected by the respective Core Members.
+SECTION III - GENERAL PROVISIONS
+V.
+
+Student Government Associated Organizations
+Every organization, committee or club working under the Student Government for the
+students through office of Dean (Students) shall be headed by a member of the Executive
+Council. Every such organization, committee or club shall hence work in coordination
+with the Executive Committee of the Executive Council member concerned. All Core
+Member appointments to these organizations must be ratified by the Student Legislative
+Council.
+
+VI. Executive Rule Book
+The Executive Council member shall obtain and maintain an Executive Rule Book. The
+Executive Rule Book shall contain the list of organizations working under the respective
+Executive Council member, the duties and responsibilities of the Core Members of each
+organization and the process of selection of the Core Members of each organization. Any
+changes to the Executive Rule Book must be verified by the respective Standing
+Committee and ratified by the Student Legislative Council. A copy should me made
+available in Dean (Students) office.
+VII. Formulation of Policies
+Any Executive Council member, along with the members of the Committee under
+him/her, can recommend policies to the Student Legislative Council, including ones
+which may have been proposed in his/her election manifesto regarding the matters under
+his/her purview. These policies must be deliberated upon and passed, with amendments if
+required, by the Student Legislative Council before officially becoming the policy of the
+Student Government.
+SECTION IV - POWERS AND RESPONSIBILITIES
+VIII.Circulation of Minutes of Meetings
+Every Executive Council Member shall be responsible for circulating to the General
+Student Body minutes of meetings of student government associated organizations that
+they are a part of. The Speaker must circulate the minutes of Student Legislative Council
+Meetings within a week of the meeting after due approval from the Student Legislative
+Council.
+
+IX. Students' General Secretary
+The Students' General Secretary shall:
+A. Co-ordinate the work of the other Executive Council members;
+B. Represent the views of the General Student Body to the Senate;
+C. Handle matters and monitor organizations, committees or clubs which do not fall
+under the purview of other Executive Council members.
+X.
+
+Academic Affairs Secretary
+The Academic Affairs Secretary shall:
+A. Represent the views of the students from taught programs on academic matters to
+the Board of Academic Courses and the Senate. These include, but are not limited
+to the academic programme, the curriculum, teacher and course feedback,
+academic clubs and activities, and undergraduate and postgraduate research.
+
+XI. Research Affairs Secretary
+The Research Affairs Secretary shall:
+A. Represent the views of the students from research programs on matters related to
+academic research to the Board of Academic Research and the Senate. These
+include, but are not limited to the research programme, the curriculum, teacher,
+guide and course feedback, and postgraduate research.
+XII. Hostel Affairs Secretary
+The Hostel Affairs Secretary shall:
+A. Look after the issues regarding general maintenance of the hostels;
+B. Be the principal representative of the Student Body to the Hostel Management in
+all matters, including, but not restricted to, the procurement of equipment and
+supplies for hostels and messes.
+XIII.Sports Secretary
+The Sports Secretary shall:
+A. Look after all issues regarding sports activities of the students;
+B. Be responsible, with the assistance of the Physical Training Instructors, for the
+selection of Institute Teams, coaching and organizing inter-hostel and
+inter-collegiate matches.
+C. Be involved in all matters of procurement of sport equipment and maintenance of
+facilities.
+
+XIV. Cultural Affairs Secretary (Literary)
+The CAS (Literary) shall:
+A. Be responsible for the satisfactory conduct of all literary based cultural
+competitions and events in the institute.
+XV. Cultural Affairs Secretary (Arts)
+The CAS (Arts) shall:
+A. Be responsible for the satisfactory conduct of all arts/social based cultural
+competitions and events in the institute​.
+XVI. Co-Curricular Affairs Secretary
+The Co-Curricular Affairs Secretary shall:
+A. Be responsible for planning and organizing all the co-curricular activities for the
+students.
+XVII. International and Alumni Relations Secretary
+The International and Alumni Relations Secretary shall:
+A. Work in coordination with the Office of International & Alumni Relations to
+maintain and improve the Institute’s relations with its alumni and organize
+avenues for the students to interact with and benefit from the Institute’s alumni
+network;
+B. Maintain and improve the Institute’s public image by managing the Institute’s
+public relations, including, but not restricted to, its interactions with the external
+media and its online and social media presence.
+
+CHAPTER V – REGULATORY BODY
+SECTION I - INTRODUCTION
+I.
+
+Regulatory Powers
+All regulatory powers of the General Student Body shall be vested in the Student Ethics
+and Constitutional Committee (SECC).
+
+SECTION II - ORGANIZATION
+II.
+
+Composition
+The SECC shall be composed of the following members:
+A. Faculty Advisor, SECC
+The Faculty Advisor who is also the Chairperson of the SECC, shall be appointed
+by the Dean (Students). A suggested list of names for the Faculty Advisor, SECC
+will be prepared by the Chief SECC Commissioner in consultation with the
+Speaker, Student Legislative Council and the Students’ General Secretary. The
+SECC Faculty Adviser may impart non-binding advice to the student members of
+the commission.
+
+B. Chief SECC Commissioner
+The Chief SECC Commissioner shall be chosen from amongst the student members of the
+SECC. The outgoing Chief SECC Commissioner shall nominate his or her
+successor subject to ratification by the outgoing Student Legislative Council in
+consultation with the Faculty Advisor, SECC.
+C. SECC Commissioners
+There shall be two SECC Commissioners, each of whom shall be selected from among the
+members of the General Student Body through a due process overseen by the
+Speaker, Student Legislative Council, the Chief SECC Commissioner and the
+Office of the Dean (Students). The appointment of the SECC Commissioners
+shall be subject to final ratification by the Student Legislative Council.
+The members of the SECC shall be ex-officio members of any committee formed in institute that
+discusses or acts on disciplinary matters concerning students, including the Hostel
+Disciplinary Committee and Institute Disciplinary Committee.
+
+III. SECC Secretariat
+The SECC shall have a dedicated Secretariat comprising of Core Members nominated by the
+Chief SECC Commissioner subject to ratification by Student Legislative Council. The
+Core Members shall appoint coordinators subject to the Chief SECC Commissioner’s
+approval.
+SECTION III - JURISDICTION AND POWERS
+IV. Jurisdiction
+Original jurisdiction of the SECC shall include controversies arising over:
+A. Interpretation of the Constitution.
+B. Interpretation of constitutional amendments.
+C. Interpretation of all legislation passed into law.
+D. Disputes and controversies involving:
+1. Student(s) against an organization or vice versa
+2. An organization against an organization.
+3. Student(s) against student(s).
+4. Student(s) against faculty members and staff in such cases where the
+Fundamental Rights guaranteed by this Constitution are suspected of
+having been violated.
+E. Charges of violations of the constitution, constitutional amendments, or other
+legislation passed by Student Legislative Council and signed into law.
+Violations of academic rules or the rules laid out in the Office of Hostel Management Manual
+shall be referred to the Academic or Institute Disciplinary Committee respectively after
+being heard by the SECC. The verdict of the SECC along with its recommended
+penalty(ies) shall be forwarded to the Chairperson of Institute Disciplinary Committee.
+V.
+
+Powers
+The SECC shall have the power to:
+A. Impose Sanctions on students as provided for under this Constitution, subject to
+laws framed by the Student Legislative Council;
+B. Issue charges, subpoenas and orders to students and request the presence of
+faculty members and/or staff;
+C. Rule on any procedural decisions that are necessary to carry out its duties within
+the limits of its jurisdiction.
+
+VI. Conducting Student Government Elections
+The SECC shall be responsible for conducting free and fair Student Government
+
+elections. The SECC shall act as the Election Commission during the period of elections.
+The Chief SECC Commissioner shall be the Senior Student Core of the Election
+Commission and the SECC Commissioners shall be the junior student cores.
+VII. Contempt of Court
+Failure by a student or an organization to comply with the decision(s) issued by the court
+will result in that student being in violation of a disciplinary policy of the Institute.
+VIII. Voting
+Ordinarily, decisions should be taken by consensus failing which the matter will be
+decided by a vote of simple majority. Each member of the SECC shall have one vote
+each and must provide a written document detailing the reasons behind each judgment.
+All discussions and deliberations of the SECC shall be documented and these documents
+shall be accessible by all students after the necessary arrangements are made to ensure the
+privacy of the concerned parties by the Secretariat.
+IX. Public Interest Litigation
+All members of the General Student Body shall have the right to file a Public Interest
+Litigation (PIL) with the SECC regarding issues which affect the Institute. The
+Commission shall hear the PIL at the earliest and can recommend the concerned
+authorities to take action based on the PIL.
+X.
+
+Impeachment
+The student members of the SECC can be impeached by the Student Legislative Council
+under circumstances and procedures elucidated in Chapter VIII (VII) of this Constitution.
+
+XI. Sanctions
+The SECC , in cases where the Student Legislative Council has not legislated upon, shall
+have the following sanction available to it:
+A. Disciplinary Warning
+B. Suspension from a particular event for a particular time period. This can be
+awarded to both individuals and organizations.
+C. Restrictions on further participation and/or fines
+D. Compensation for losses
+E. Dismissal of elected representative
+
+CHAPTER VI - HOSTELS
+SECTION I - INTRODUCTION
+I.
+
+Introduction
+The Hostel Student Body (HSB) shall decide policies with respect to their own Hostels in
+accordance with the Constitution and the laws passed by the Student Legislative Council.
+
+II.
+
+The Hostel Council
+The Hostel Council shall be responsible for taking decisions consistent with the policy set
+by the general body of the hostel, and their implementation. It shall be in continuous
+touch with the Hostel Student Body and shall apprise it of issues of interest.
+
+III. General Body Meeting
+The Hostel Student Body shall meet at a General Body Meeting (GBM) in order to
+discuss the issues of its interest, to pass policies and the Budget of the Hostel Council,
+and to review the performance of the members of the Hostel Council. The following are
+the rules and procedures pertaining to General Body Meetings:
+A. The Hostel General Secretary shall call for the General Body Meeting.
+B. There shall be at least one General Body Meeting every semester, chaired by the
+Warden.
+C. The Hostel Student Body shall pass the budget allocations obtained out of
+Establishment B funds in the General Body Meeting. The general policies of the
+hostel shall also be formed during the General Body Meeting.
+D. The quorum for any General Body Meeting shall be 10 percent of the total current
+strength of the residents of the hostel.
+E. All the members of the Hostel Council shall mandatorily attend the General Body
+Meetings.
+F. The minutes of all General Body Meetings shall be communicated to the hostel
+residents within 72 hours of holding the General Body Meeting.
+IV. Hostel Budget
+The Hostel Council shall draw up a budget for the hostel for a period of no longer than
+one year, and shall have it passed in the first General Body Meeting of the academic year
+by a simple majority of the members of the Hostel Student Body present and voting. The
+budget, along with the signatures of all the members of the Hostel Student Body voting
+for it, shall be forwarded to the Financial Accountability Committee.
+
+V.
+
+Policies
+The Hostel Council shall have the power to table policies at a General Body Meeting and
+have them passed by a simple majority, provided they are not contradictory to the spirit
+of the Constitution or any legislation passed by Student Legislative Council. These
+policies shall be forwarded to the Speaker within three days of the General Body
+Meeting. The Council shall maintain the records of all the policies passed in at least the
+past five years.
+
+VI. Expenditure
+All expenditures incurred by the Hostel Council under the budget approved by the
+Warden shall follow the procedures found in the Hostel Expenditure By-Laws.
+SECTION II - HOSTEL COUNCIL
+VII. Composition of the Hostel Council
+The Hostel Council shall consist of the following members:
+A. Hostel Legislator
+B. General Secretary
+C. Sports Secretary
+D. Social Secretary
+E. Literary Secretary
+F. Technical Affairs Secretary
+G. Health and Hygiene Secretary
+The Hostel shall be administered by the Warden with the assistance
+SECTION III - POWERS AND RESPONSIBILITIES
+I.
+
+The Hostel Legislator
+The Hostel Legislator shall, at the hostel level:
+A. Convene and chair Hostel Council meetings when the Warden and the Assistant
+Warden are not present.
+B. Take the Minutes of the Meeting for Hostel Council meetings and General Body
+Meetings, and shall circulate it to the Hostel Student Body by email and display it
+on the notice board of the Hostel.
+C. Call for, compile, and release to the Hostel Student Body, reports from Hostel
+Council Secretaries.
+D. Advise the Hostel Council Secretaries in their work.
+E. Raise issues from the hostel level to Student Legislative Council in case of wider
+applicability.
+
+II.
+
+The General Secretary
+The General Secretary shall:
+A. Ensure the proper maintenance of the hostel and its precincts;
+B. Co-ordinate the activities of the other Hostel Secretaries;
+C. Convene the Hostel General Body Meeting as and when required;
+D. Help the Assistant Warden and/or the Warden in keeping an account of procuring
+or condemning of hostel furniture;
+E. Ensure adequate security provision for the hostel.
+
+III.
+
+The Sports Secretary
+The Sports Secretary shall:
+A. Procure and maintain sports equipment for the use by the hostel residents through
+Sports Equipment Ledger, which shall contain the list of all sports equipment that
+the Hostel possesses;
+B. Plan sports activities within the hostel for the year and propose budget to the
+Hostel Student Body at the beginning of the year for approval;
+C. Plan sports activities by identifying suitable teams for different events;
+D. Appoint Captains for various teams of the hostel sports/games;
+E. Conduct various intra-hostel sports/tournaments in his/her hostel and coordinate
+the participation of hostel teams in the inter hostel competitions organized by the
+Institute Sports Secretary.
+
+IV.
+
+The Literary Secretary
+The Literary Secretary shall:
+A. Plan cultural activities within the hostel for the year and propose budget to the
+Hostel Student Body at the beginning of the year for approval in coordination
+with the Social Secretary;
+B. Monitor and maintain the Hostel library;
+C. Arrange to buy new books after obtaining approval from Warden and take them
+on stock, catalogue them and check the physical stocks every month;
+D. Procure magazines and newspaper for the Hostel Common Rooms;
+E. Identify suitable talent and mobilise teams for participating literary events.
+
+V.
+
+The Social Secretary
+The Social Secretary shall:
+A. Conduct social functions and festivals within the hostel.
+B. Be responsible for arranging food, if necessary, during the organization of social
+events in the hostel in cooperation with the Cultural Secretary.
+
+C. Procure and maintain musical instruments and other accessories and account for
+these through Hostel Musical Instruments Ledger, which shall contain the list of
+all musical instruments that the Hostel possesses;
+D. Conduct of the various social and cultural activities of the hostel and coordinate
+the participation of hostel teams in the inter hostel competitions organized by the
+Cultural Affairs Secretaries;
+E. Repair or replace faulty audio/video equipment in the hostel.
+VI.
+
+Technical Affairs Secretary
+The Technical Affairs Secretary shall:
+A. Plan co-curricular activities within the hostel for the year and propose budget to
+the Hostel Student Body at the beginning of the year for approval.
+B. Procure and maintain computers and technical parts and other accessories and
+account for these through Hostel Computer Equipment Ledger, which shall
+contain the list of all computer and technical equipment that the Hostel possesses.
+C. Repair or replace faulty technical equipment in the hostel.
+D. Conduct various co-curricular activities in the hostel and coordinate the
+participation of hostel teams in the inter-hostel competitions organized by the
+Co-Curricular Affairs Secretary.
+E. Identify suitable talent and mobilise teams for participating in intra-hostel and
+inter-hostel co-curricular events.
+F. Assist the Election Officer in conducting elections when his/her hostel is one of
+the polling venues.
+
+VII.
+
+The Health and Hygiene Secretary
+The Health and Hygiene Secretary shall:
+A. Be in ​charge of maintaining cleanliness in and around the hostel premises.
+B. Be responsible for the functioning and training of the hostel housekeeping staff
+C. Be part of any committee formed to ensure the safety of the students, such as the
+Disaster Management Committee.
+D. Be responsible for the proper upkeep of the hostel garden(s)
+E. Be a member of the MMCC and shall represent his electorate in issues related to
+messes. He shall be the point of contact for the redressal of complaints made by
+his/her electorate
+F. Maintain a database of blood donors specific to that hostel
+G. Be the point of contact in the case of a medical emergency and shall be liable to
+help in the case of a student falling sick in the hostel.
+H. Monitor and inspect the water storage, supply and distribution systems to ensure
+that the hygiene and quality of potable and non-potable water is maintained.
+
+I. Be responsible for the cleaning and sanitization of the water dispensers and water
+storage facilities in the hostel.
+J. Initiate and regulate the necessary actions in a hostel in case of an outbreak of
+disease.
+K. Monitor and regulate the issues related to waste bins in the hostel.
+
+CHAPTER VII - DEPARTMENTS
+SECTION I - INTRODUCTION
+I.
+
+Introduction
+The Department Student Body (DSB) shall decide policies with respect to its own
+Department in accordance with the Students’ Constitution of IIT Madras, any legislation
+passed by Student Legislative Council, or the respective Department Charter, whichever
+is appropriate in the given circumstance.
+
+II.
+
+The Department Council
+The Department Council shall be responsible for taking decisions consistent with the
+policies set by the general body of the Department and their implementation. It shall be in
+continuous touch with the Department Student Body and shall apprise it of issues
+concerning students’ interest.
+
+III. General Body Meeting
+The Department Student Body shall meet at a General Body Meeting (GBM) in order to
+discuss the issues of its interest, to pass policies, to review the performance of the
+members of the Department Council, and to make amendments to the Department
+Charter, if necessary.
+A. The Department Legislator/Research Councillor shall call for the General Body
+Meeting;
+B. There shall be at least one General Body Meeting every semester;
+C. The quorum for any General Body Meeting shall be 10 percent of the total current
+strength of the students of the Department. Individual Departments can choose to
+increase the quorum;
+D. It is mandatory for all the members of the Department Council to attend the
+General Body Meetings;
+E. The minutes of all General Body Meetings shall be communicated to the
+Department Student Body within 72 hours of holding the General Body Meeting.
+IV. Policies
+The Department Council shall have the power to propose policies at a General Body
+Meeting and shall have them passed by a simple majority, provided they are not
+contradictory to the spirit of the Students’ Constitution of IIT Madras, any legislation
+passed by Student Legislative Council or the Department Charter. It shall maintain the
+records of all the policies passed in at least the past five years.
+
+V.
+
+The Department Charter
+The Department Student Body of every Department shall create and maintain a
+Department Charter. The Charter shall create and specify the structure of the Department
+Council, along with the powers and responsibilities of all the members of the Council. It
+shall also contain rules and procedures regarding General Body Meetings and finances.
+The Charter shall be passed, and can be amended, in a General Body Meeting by a
+two-thirds majority of the total members present and voting, and a copy, or an updated
+copy in the case of an amendment, shall be given to the Speaker of Student Legislative
+Council.
+
+VI. Department Finances
+Each Department will have the option to ask for fees from the students of the department.
+These fees shall be collected at the beginning of every academic year (or every semester)
+and shall be used to conduct Department events and fests. Any changes to these fees will
+have to be passed in a General Body Meeting by a two-thirds majority of the students
+present in the meeting.
+SECTION II - DEPARTMENT COUNCIL.
+VII. Mandatory Members of the Department Council
+The Department Council of every Department shall mandatorily contain the following
+members:
+A. Department Legislator (Academic)
+B. Research Councillor
+C. Department Legislator (Research)
+D. Class Representatives
+VIII.Other Members of the Department Council
+Every Department shall have the power and liberty to create any other positions of
+responsibility as it deems necessary. These include, but are not restricted to, Deputy
+Secretaries, Department Secretaries etc. Their election procedures and powers and
+responsibilities shall be clearly stated in the respective Department Charters.
+IX. The Legislators
+Every Department shall elect two Legislators to represent the interests of its course and
+research students respectively in Student Legislative Council.
+The Department Legislator (Academic) shall be a B.Tech, Dual Degree, M.A, M.Sc, or MBA
+student.
+The Department Legislator (Research) shall be an M.S or Ph.D student.
+
+X.
+
+Duties and Responsibilities of the Department Legislator (Academic) and Research
+Councillor
+The Department Legislator (Academic) shall, at the department:
+A. Represent any academic/research concerns of students to the Head of the
+Department and the Department Consultative Committee and shall facilitate
+interactions between faculty and students;
+B. Conduct General Body Meetings at the Department at least once a semester;
+C. Help students tackle their specific academic/research problems and take up their
+problems with the respective authorities;
+D. Attend the Department Consultative Committee meetings and represent the views
+of the students;
+E. Be conversant with all the rules and procedures of the Department;
+F. Facilitate the disbursement of stipends/fellowships/scholarships/etc. to the
+scholars;
+G. Take up any other responsibility not falling under the other Positions of
+Responsibility created by the Department Charters.
+In addition to these, the Research Councillor shall, be default, be part of the placement team
+headed by the Research Affairs Secretary.
+XI. Elections of Department Council
+A. The electorate for the Department Legislator (Academic) shall include B.Tech,
+Dual Degree, M.Sc. MBA and MA students.
+B. The electorate for the Research Councillor and Department Legislator (Research)
+shall include Research scholars.
+C. M.Tech students shall elect four M.Tech Legislators to represent them in the
+department and in the Student Legislative Council.
+XII. The Class Representative
+It is mandatory for each class to elect a Class Representative. The representatives of all
+classes shall form the Class Council which shall be answerable to the Department
+Legijislator (Academic).
+XIII.Duties and Responsibilities of the Class Representative
+The Class Representative shall:
+A. Assist the Department Legislator (Academic) with collecting feedback and
+compiling the mid-term review for his/her class.
+B. Notify the Department Legislator (Academic) about any academic concerns and
+developments in the class.
+
+C. Inform the Department Legislator (Academic) about issues related to course
+registration and shall attempt to solve the issues in coordination with the
+Academic Section and the faculty advisors.
+
+CHAPTER VIII - ELECTIONS AND IMPEACHMENT
+SECTION I - STUDENT ELECTION COMMISSION (SEC)
+I.
+
+Mandate
+The Student Judicial Commission, acting as the Student Elections Commission (SEC)
+will be empowered with the full authority to enforce any and all regulations, rules,
+policies and procedures relating to student elections.
+
+II.
+
+Special Election
+In the case of a Special Election, the Student Election Commission will provide a Special
+Elections Code specifying the election’s rules and procedures at the direction of the Chief
+Election Officer and the Office of the Dean of Students. Special Elections shall be
+conducted in case a position remains unfilled or if an elected representative resigns with
+more than three months to go before the scheduled General Elections. In such cases, the
+Special Election shall be held within a month of the vacancy being notified.
+
+III.
+
+Composition
+The Student Election Commission shall be constituted by:
+A. Chief Election Officer (CEO)
+B. Deputy Election Officer (DEO)
+C. Student Judicial Commission members
+
+IV.
+
+Coordinators
+In order to facilitate its smooth functioning, the Student Election Commission may select
+student coordinators to assist it in conducting the elections. These coordinators shall not
+be members of the commission, but shall work directly under the supervision of the
+commission. Applications to this post should be open to the entire General Student Body.
+In case no applications are received, the Student Election Commission can nominate
+members.
+
+V.
+
+Financial Support
+The Student Election Commission shall receive funding from Gymkhana Fees. The
+Student Legislative Council shall allocate the money requested by the Chief Election
+Officer in its budget.
+
+VI.
+
+Duties of the Student Election Commission
+The Student Election Commission shall be responsible for:
+
+A. The conduct of all elections prescribed in the Constitution in a free and fair
+manner.
+B. Issuing and publicizing the Code of Conduct and campaign restrictions
+C. Arbitration of complaints through the Grievance Committee
+D. Announcing the dates and times for the following:
+1. Filing of nominations
+2. Withdrawal of nominations
+3. Complaints regarding nominations
+4. Date of elections
+5. Declaration of results
+E. Specifying procedures for filing and withdrawal of nominations.
+F. Announcing the list of valid nominations and the results of the elections to the
+General Student Body.
+SECTION II - ELECTORATE
+VII.
+
+Executive Council
+The electorate for all Executive Council positions will be the General Student Body;
+Provided the electorate for the Academic Affairs Secretary and the Research Affairs
+Secretary will be the students from taught and research programs respectively;
+Provided further that the electorate for the Speaker, Student Legislative Council will be
+the Hostel, Branch, M.Tech and Research Councillors.
+
+VIII.
+
+Hostel Council
+The electorate for Hostel Council positions will be the Hostel Student Body.
+
+IX.
+
+Department Council
+The electorate for Department Council positions shall be as follows:
+A. The electorate for the Department Legislator (Academic) will be the Department
+Student Body from taught programs.
+B. The electorate for the Department Legislator(Research) and the Research
+Councillor will be the Department Student Body from research programs.
+C. The electorate for any other elected position in the Department Councils will be
+defined in the respective Department Charters, and their elections shall be
+conducted separately.
+
+SECTION VII - IMPEACHMENT
+X.
+
+Grounds for Impeachment
+Any student representative may be impeached on grounds of
+A. Non-performance of duties specified in the Students’ Constitution
+B. Gross misconduct, as found by the Student Judicial Commission, Institute
+Disciplinary Committee, Complaint Committee Against Sexual Harassment or
+any similar competent authority
+C. Financial misappropriation (Financial Accountability Committee shall intimate
+the Student Legislative Council about the initiation of enquiry and shall submit
+the report to the Legislative Council in the designated time period)
+
+XI.
+
+Procedure for Impeachment of Members of Executive Council and Student Judicial
+Commission
+The following procedures shall be followed in case of impeachment of EC members:
+A. An impeachment motion against any member of the Executive Council or Student
+Judicial Commission can be raised in a regular meeting of Student Legislative
+Council, or by letter/email to the Speaker by any General Student Body member,
+provided that it is supported by at least 12 Councilors of the Student Legislative
+Council. This support must also be intimated to the Speaker in writing or as an
+e-mail.
+B. A Legislative Committee shall be formed within 48 hours of the receipt of the
+letter/e-mail to look into the allegation and the representative shall be presented
+with the opportunity to defend himself/herself in front of the Committee.
+C. A special session of Student Legislative Council must be convened for the
+impeachment vote within two weeks of the Committee being set up. The
+Committee must present a detailed report on the issue to Student Legislative
+Council in this meeting. The representative shall be considered impeached only if
+at least three-fourths of the total number of Legislators vote in favour of the
+motion.
+
+XII.
+
+Procedure for Impeachment of Other Elected Representatives
+The following procedures shall be followed in case of impeachment of elected Hostel and
+Department Council members:
+A. An impeachment proceeding against any elected hostel or department
+representative can be initiated by one-tenth of the total strength of the electorate
+for a particular post. The impeachment motion must be initiated by writing a
+letter/email to the SEC and the Warden/HoD (except in the case of the Speaker).
+
+B. The SEC, along with the Warden/HoD (except in the case of the Speaker) shall
+call for a meeting of the electorate within 5 days of the receipt of the letter/e-mail,
+where the accusers shall be allowed to present their case and the accused
+representative shall be allowed to defend himself. The Student Election
+Commission must ensure that this session is conducted in a fair and balanced
+manner.
+C. If the impeachment motion is against the Speaker, the Student Legislative Council
+shall nominate a Legislator to conduct the impeachment proceedings.
+D. The impeachment vote must be held by the Student Election Commission within
+72 hours of the meeting.
+E. The representative shall be considered impeached if the number of votes cast in
+the impeachment vote is equal or greater to the number of votes that were cast in
+the representative’s election to the post, and at least two-third of the votes support
+impeachment. If the candidate had an unopposed election, then at least two-third
+of the electorate must vote in the impeachment motion, and at least half of the
+votes must support impeachment.
+In addition to the above, a Legislator of the Student Legislative Council can be impeached by the
+Student Legislative Council on grounds given in this chapter, following the procedure
+established in this chapter by a 2/3rd majority of the total members of the Student
+Legislative Council
+
+CHAPTER IX - BUDGETS AND PLANNING
+
+SECTION I - SOURCES OF FINANCE
+I.
+Sources of Finance
+All activities of the Student Government shall be funded either through sponsorship deals, the
+Gymkhana fund, alumni funds or money allocated for the welfare of the students by the
+institute.
+II. Gymkhana Fund
+Gymkhana Fund will consist of the money collected from every member of the General Student
+Body per semester as the Gymkhana Fee.
+III.
+
+Financial Transparency
+The details regarding the usage of Gymkhana Fund shall be made accessible to all
+members of the General Student Body.
+
+IV.
+
+Sponsorship
+All student organizations under the Student Government have the option of being funded
+through sponsorship deals in addition to receiving money from the Gymkhana Funds.
+
+V.
+
+Limitations on Accepting Sponsorship Money / Donations
+Sponsorship deals / Donations cannot be accepted with:
+A. Political parties or known affiliate organizations of political parties
+B. Organizations that promote hatred, violence, and divisiveness in the campus on
+the basis of race, colour, caste, sex, sexual orientation, age, religion, political
+convictions, language, ethnicity, region, nationality, socio-economic condition, or
+disability;
+C. Any company or its subsidiary which is in the business of liquor, tobacco, or any
+other banned substances; and
+D. Any company or organization that Student Legislative Council explicitly votes
+against.
+
+SECTION II - BUDGET
+VI.
+
+Preparation of the Budget
+All student bodies under the Student Government shall draw a budget and present it to
+the Executive Council member to whom they report (or to the Speaker if they are
+Constitutional Bodies). The Executive Council shall consolidate the proposals presented
+
+to it and shall work along with their corresponding Standing Committees to prepare the
+final budget. Final budget shall be finalized in consultation with the faculty advisor and
+the Dean Students.
+VII.
+
+Approval of the Budget by Student Legislative Council
+Student Legislative Council may approve the budget demanded by the Executive Council
+or can recommend modifications to it as it deems necessary. For the budget to be
+approved, two-thirds of those present and voting must approve. Any modification
+should again be finalized in consultation with the faculty advisor and the Dean Students.
+
+CHAPTER X - CONSTITUTIONAL BODIES
+
+Introduction
+Constitutional Bodies are student organizations that are essential to the democratic functioning of
+the Student Government of IIT Madras. Constitutional Bodies report to the Student Legislative
+Council through the Speaker, Student Legislative Council.
+SECTION I - THE FIFTH ESTATE (T5E)
+Introduction
+The Fifth Estate (T5E) is a recognized campus publication of IIT Madras.
+I.
+
+Composition
+T5E shall be composed of:
+A. Faculty advisor
+B. Executive Editor
+C. Editors
+D. Correspondents
+
+II.
+
+Faculty Advisor
+The Faculty Advisor shall have an advisory role. His/her recommendations and
+suggestions regarding T5E shall not be binding on the student team.
+
+III. Executive Editor
+The Executive Editor shall be responsible for the functioning of T5E. He/she shall
+appoint the Editorial Team in a month’s time of assuming office and shall be the official
+representative of T5E.
+IV. Editorial Policy
+The Executive Editor and the Editorial Team will be responsible for the formulation and
+update of the Editorial policy of the team and the content published by T5E.
+V.
+
+Selection
+The selection process for the members of T5E is given below:
+A. The Faculty Advisor shall be appointed by the Dean (Students).
+
+B. The Executive Editor shall be selected by the previous Executive Editor, in
+consultation with the Speaker, Faculty Advisor and the previous Editorial team.
+C. The Executive Editor shall be responsible for the selection of the Editorial team
+and the correspondents.
+D. The selection of the Executive Editor shall be ratified in the first Student
+Legislative Council meeting with a two-thirds majority. The Editorial team shall
+present the Editorial Policy in the meeting.
+VI. Powers and Responsibilities
+T5E shall:
+A. Act as a valuable aid in establishing and maintaining an atmosphere of free and
+responsible discussion and of intellectual exploration in the campus community;
+B. Be found to be fair, unbiased, and impartial in its reporting;
+C. Cover the major events conducted on the campus, be present in and report every
+Student Legislative Council meeting, and aid the Legislative Council & the
+Executive Council in dissemination of information;
+D. Review comprehensively the work of the Executive Council and the Legislative
+Council, including the work done by the Standing and Ad Hoc Committees.
+VII. Complaints and Protection from Arbitrary Suspension and Removal
+The Editorial Team are protected from arbitrary suspension and removal because of
+student, faculty and administrative views on editorial policy or content. Complaints
+regarding content shall be raised with the Executive Editor, and if not satisfactorily
+resolved, can be raised with the Speaker, Student Legislative Council, faculty advisor, the
+SECC and the HDC.
+
+VIII.Impeachment of the Executive Editor
+The Executive Editor may be impeached on grounds of:
+A. Non-performance of duties specified in the Students’ Constitution.
+B. Gross misconduct, as found by SECC, Hostel Disciplinary Committee, Complaint
+Committee Against Sexual Harassment, or any similar competent authority.
+C. Financial misappropriation (FAC shall intimate Student Legislative Council about
+the initiation of enquiry and shall submit the report to Student Legislative Council
+in the designated time period).
+IX. Funding
+T5E shall present a yearly budget in the first meeting of the Student Legislative Council.
+
+SECTION II - THE FINANCIAL ACCOUNTABILITY COMMITTEE (FAC)
+I.
+
+Introduction
+The Financial Accountability Committee is envisaged as the primary student body for
+scrutinizing and maintaining the financial records of student organizations of IIT Madras.
+
+II.
+
+Composition
+The Financial Accountability Committee shall be composed of a maximum of 10
+students.
+
+III. Term of Office
+Each member shall have a term of office of one year, which is extendable up to a
+maximum of two years
+X.
+
+Eligibility
+The eligibility of the members of Financial Accountability Committee shall be as
+follows:
+A. No Academic or Hostel disciplinary actions
+B. A minimum CGPA of 6.50
+C. On-campus resident
+D. Should not hold any other post at Hostel, Department, or Institute level, whether
+elected, selected, or nominated, during the period of membership in the
+Commission.
+
+XI. Appointment of Members
+The Speaker shall call for applications. The Student Legislative Council shall forward the
+applications to the Nominations and Ratifications Ad-Hoc Committee to study the
+applications carefully, with due attention given to the past positions of responsibilities of
+the applicants. The Committee shall table a report on the same in the Student Legislative
+Council along with its recommendations. The Student Legislative Council shall then
+select each of the 10 members of the committee by the following condition:
+A. At least two-thirds of the Student Legislative Council members should vote
+B. At least two-thirds of the votes should confirm the appointment
+
+XII. Appointment of the Core(s)
+The Student Legislative Council shall also appoint Core(s) for the Commission from
+among the ten members. The confirmation of Chair will require:
+A. At least three-fourth of the Student Legislative Council members to vote
+B. At least two-thirds of the votes to confirm the appointment
+XIII.Term Extension
+After the end of one year, any member may choose to continue in the Commission for a
+further period of one year, provided that the next Student Legislative Council confirms
+the appointment as per the conditions laid out above.
+XIV. Vacancy
+In the event that the ten seats are not filled after exhausting the applications received,
+Student Legislative Council may suo moto appoint the remaining members from eligible
+members of the General Student Body by the condition required to appoint the Chair.
+XV. Financial Accountability Committee and Student Legislative Council
+The Financial Accountability Committee is an independent student investigative body.
+The Commission is only answerable to the Dean (Students). The FAC shall, however,
+present reports of completed investigations before the Student Legislative Council. The
+chairperson of the FAC must also submit a report once in every two months to Student
+Legislative Council which would give a broad overview of the investigations undertaken
+by the FAC. In carrying out functions related to accounting and keeping track of the
+expenditure of student organizations, the Financial Accountability Committee is
+completely independent.
+XVI. Jurisdiction
+Every student post (elected/selected/nominated) will come under the jurisdiction of the FAC:
+A. Executive Council members
+B. Hostel Council members
+C. Department Council members
+D. Legislators and Speaker of the Student Legislative Council
+E. cores and coordinators and all recognised PoRs of any body.
+F. Any student who uses either the Establishment B fund at the Hostel Level or the
+Gymkhana fund at the Institute level or any sponsored fund and raised fund or or
+money allocated for the welfare of the students by the institute.
+
+XVII. Impeachment of Members from the FAC
+The procedures for impeachment of any member from the FAC shall be as follows:
+A. Any complaint received against a member of FAC will be investigated by the
+Student Legislative Council, of which a report has to be submitted within 14 days
+of receipt of such a complaint.
+B. The report has to be forwarded to the Dean (Students) and the member concerned.
+C. If the member so wishes, he/she may submit a report within 7 days of receiving
+the report.
+D. Within the next 7 days, Student Legislative Council may decide to impeach the
+member concerned.
+E. To impeach a member:
+1. At least two-thirds of the Student Legislative Council members should
+vote
+2. At least two-thirds of the votes should confirm the impeachment
+F. To impeach the Core(s):
+1. At least three-fourths of the Student Legislative Council members should
+vote
+2. At least two-thirds of the votes should confirm the impeachment
+Failure of the members of the FAC to perform their duties is a ground for impeachment. On
+receipt of a complaint, the Dean (Students) may recommend the impeachment of a member to
+the Speaker.
+
+CHAPTER XI - AMENDMENTS
+I.
+
+Initiating the Amendment Process
+Amendments to this Constitution can be proposed only by the Student Legislative
+Council. To be considered for approval, an amendment to this Constitution must be
+presented at a meeting of Student Legislative Council and provided, via e-mail, to all
+members of Student Legislative Council at least one week prior to the Student Legislative
+Council meeting.
+
+II.
+
+The Amendment Process
+The Student Legislative Council shall form an Ad-Hoc Committee to look into the need
+and constitutionality of the proposed amendment. The committee shall prepare and
+submit a report regarding the same to the Speaker. This report, along with the proposed
+amendment, shall be presented to the Student Legislative Council at least a week prior to
+the final vote.
+
+III. Adoption of the Amendment
+To be adopted, a proposed amendment to this Constitution must receive a two-thirds
+affirmative vote at a meeting of the Legislative Council and must be ratified with a
+simple majority in the Senate. The amendments are effective immediately upon
+ratification by the Senate.
+IV. Editorial Changes
+Editorial changes such as grammar, formatting, and non-substantive re-wording may be
+proposed by any member of Student Legislative Council at an official meeting of the
+Legislative Council and can be approved by a simple majority vote of the Legislative
+Council.
+V.
+
+Record of Amendments
+A record of all amendments to this Constitution must be kept, by the Speaker of the
+Student Legislative Council, as an appendix to this Constitution.
+
+
